@@ -11,8 +11,10 @@
 
 ### Badges
 
+
 ![codewars](https://www.codewars.com/users/balashovmb/badges/small)
 ![views](https://komarev.com/ghpvc/?username=balashovmb)
+### Stats
 ![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balashovmb&theme=monokai)
 
 ### My pet projects
