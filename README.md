@@ -17,7 +17,3 @@
 ### Stats
 ![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balashovmb&theme=monokai)
 
-### My pet projects
-[Stonks-app](https://github.com/balashovmb/stonks-app)
-
-[Q&A Time](https://github.com/balashovmb/ror_pro)
